@@ -7,4 +7,4 @@
  Update the two key values according to your environment
 
  ## Specifying Device Collections
- In the script, enter the device collections which you want all clients removed from
+ In the script, update the **$CollectionNames** array with the device collections you want all clients removed from
