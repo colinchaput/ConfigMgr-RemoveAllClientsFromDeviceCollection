@@ -1,0 +1,5 @@
+{
+    "_comment": "MECM Site connection information",
+    "SiteCode": "<sitecode>",
+    "ProviderMachineName": "<primary site server FQDN>"
+}
