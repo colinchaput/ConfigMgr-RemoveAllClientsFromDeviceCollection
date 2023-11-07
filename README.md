@@ -6,5 +6,5 @@
  Rename the config.json.example to **config.json** 
  Update the two key values according to your environment
 
- ## Array of Device Collections
+ ## Specifying Device Collections
  In the script, enter the device collections which you want all clients removed from
